@@ -1,2 +1,2 @@
 # Number_Converter
-A command line program that takes a binary, hex or decimal input and converts to hex, binary, or decimal.  Developed using C, in for CS315: Computer Architecture 
+A command line program that takes a binary, hex or decimal input and converts to hex, binary, or decimal.  Developed using C for CS315: Computer Architecture 
